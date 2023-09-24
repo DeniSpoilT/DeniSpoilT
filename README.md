@@ -1,20 +1,15 @@
 ### Hi 👋 My name is Denis Komarov  
-  
-
-
 
 ### I am fond of studying new technologies and their internal structure. I strive to understand the logic of each technology to the smallest detail in order to form a complete picture of its functioning. I mainly specialize in java development, but I like to try new things.  
-- 🌍  I'm based in Saint-Petersburg  
-  
 
-- ✉️  You can contact me at [komarovd.m@yandex.ru](mailto:komarovd.m@yandex.ru)  
-  
+- 🌍  I'm based in Saint-Petersburg    
+
+- ✉️  You can contact me at [komarovd.m@yandex.ru](mailto:komarovd.m@yandex.ru)    
 
 - 🧠  I'm learning Spring Framework, Vaadin.  
   
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
