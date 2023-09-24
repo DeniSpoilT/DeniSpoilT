@@ -60,6 +60,10 @@
 
 ## Connect with me  
 <div align="center">
+  <div align="center">
+<a href="https://t.me/your_telegram_username" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.facebook.com/profile.php?id=100006973968022" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
