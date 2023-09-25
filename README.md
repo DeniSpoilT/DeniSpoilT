@@ -25,6 +25,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://maven.apache.org" target="_blank"><img style="margin: 10px" src="https://javapro.ir/uploadfile/file_portal/site_2237_web/file_portal_end/%D8%A8%D8%AE%D8%B4-%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/%D9%88%D8%A8%D9%84%D8%A7%DA%AF/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%AC%D8%A7%D9%88%D8%A7/4.png" alt="Maven" height="50" /></a> 
+<a href="https://gradle.org" target="_blank"><img style="margin: 10px" src="https://flyclipart.com/thumbs/debugging-in-gradle-travis-ci-logo-transparent-1142883.png" alt="Gradle" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
